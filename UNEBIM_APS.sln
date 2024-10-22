@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNEBIM_APS", "UNEBIM_APS\UNEBIM_APS.csproj", "{4BC9837B-32DA-4828-BC51-367D9B56AD0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC9837B-32DA-4828-BC51-367D9B56AD0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC9837B-32DA-4828-BC51-367D9B56AD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC9837B-32DA-4828-BC51-367D9B56AD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC9837B-32DA-4828-BC51-367D9B56AD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDC5294D-20AC-443F-A7C2-D793E8CF5710}
+	EndGlobalSection
+EndGlobal

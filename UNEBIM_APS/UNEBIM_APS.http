@@ -1,0 +1,6 @@
+@UNEBIM_APS_HostAddress = http://localhost:5021
+
+GET {{UNEBIM_APS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
