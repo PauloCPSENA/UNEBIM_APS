@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UNEBIM_APS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37525eeb9b281c51e17eead0572cd6fa84af28e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e9de5e29a0aac9db58d0535b3a27db3db9e0f24")]
 [assembly: System.Reflection.AssemblyProductAttribute("UNEBIM_APS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UNEBIM_APS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

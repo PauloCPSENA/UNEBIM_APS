@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\felly\\source\\repos\\UNEBIM_APS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC9837B-32DA-4828-BC51-367D9B56AD0D}|UNEBIM_APS\\UNEBIM_APS.csproj|c:\\users\\felly\\source\\repos\\unebim_aps\\unebim_aps\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC9837B-32DA-4828-BC51-367D9B56AD0D}|UNEBIM_APS\\UNEBIM_APS.csproj|solutionrelative:unebim_aps\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\felly\\source\\repos\\UNEBIM_APS\\UNEBIM_APS\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "UNEBIM_APS\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\felly\\source\\repos\\UNEBIM_APS\\UNEBIM_APS\\WeatherForecast.cs",
+              "RelativeToolTip": "UNEBIM_APS\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:44:25.117Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
