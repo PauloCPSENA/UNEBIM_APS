@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felly\\Source\\Repos\\UNEBIM_APS\\UNEBIM_APS\\UNEBIM_APS.csproj": {}
+    "C:\\Users\\Paulo\\Desktop\\Unebim - Aps\\UNEBIM_APS\\UNEBIM_APS\\UNEBIM_APS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felly\\Source\\Repos\\UNEBIM_APS\\UNEBIM_APS\\UNEBIM_APS.csproj": {
+    "C:\\Users\\Paulo\\Desktop\\Unebim - Aps\\UNEBIM_APS\\UNEBIM_APS\\UNEBIM_APS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felly\\Source\\Repos\\UNEBIM_APS\\UNEBIM_APS\\UNEBIM_APS.csproj",
+        "projectUniqueName": "C:\\Users\\Paulo\\Desktop\\Unebim - Aps\\UNEBIM_APS\\UNEBIM_APS\\UNEBIM_APS.csproj",
         "projectName": "UNEBIM_APS",
-        "projectPath": "C:\\Users\\felly\\Source\\Repos\\UNEBIM_APS\\UNEBIM_APS\\UNEBIM_APS.csproj",
-        "packagesPath": "C:\\Users\\felly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felly\\Source\\Repos\\UNEBIM_APS\\UNEBIM_APS\\obj\\",
+        "projectPath": "C:\\Users\\Paulo\\Desktop\\Unebim - Aps\\UNEBIM_APS\\UNEBIM_APS\\UNEBIM_APS.csproj",
+        "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paulo\\Desktop\\Unebim - Aps\\UNEBIM_APS\\UNEBIM_APS\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\felly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,22 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -61,15 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
